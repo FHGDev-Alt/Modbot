@@ -5,5 +5,5 @@ Listen closely, there *are* some tricky parts, and a basic knowledge of Node.js 
 
 
 # Step 1.
-Go to [this](/ "lol") link
+Go to [this](../ "lol") link
 <img src="">
