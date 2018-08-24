@@ -5,5 +5,6 @@ Listen closely, there *are* some tricky parts, and a basic knowledge of Node.js 
 
 
 # Step 1.
-Go to [this](.../ "lol") link
-<img src="">
+Go to [this](https://github.com/FHGDev-Alt/Modbot "click here.") link. You should see this page.
+<img src="https://i.imgur.com/xSqlH8T.png
+As the photo says, click the Download ZIP button. When the download finishes, extract the ZIP, and put the extracted files on your desktop.
